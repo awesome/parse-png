@@ -24,7 +24,7 @@
     "promise"
   ],
   "dependencies": {
-    "pngjs": "^2.2.0"
+    "pngjs": "^3.0.0"
   },
   "devDependencies": {
     "ava": "*",
